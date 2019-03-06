@@ -1,0 +1,8 @@
+*.depend
+*.layout
+*.cbp
+*.o
+*.exe
+
+[Oo]bj/
+[Bb]in/
